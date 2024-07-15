@@ -1,0 +1,1 @@
+[{"Id":1,"Description":"Moj prvy turnaj","PlayerIds":[1,3,4,2],"RoundIds":[3,4]},{"Id":2,"Description":"Turnaj 9.B","PlayerIds":[-1,2,-1,3,5,1,4,-1],"RoundIds":[5]},{"Id":3,"Description":"Test","PlayerIds":[5,2,-1,4,-1,3,-1,8],"RoundIds":[6]}]
